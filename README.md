@@ -19,7 +19,6 @@ Open a pull request against this repository to update any metadata field.
 The validate workflow will check schema correctness and block merge if validation fails.
 
 > **Note:** This repository was bootstrapped automatically from public sources (CNCF landscape, CLOMonitor, GitHub governance files).
-> Some fields are best-effort guesses marked with `# TODO: AUTO-DETECTED — please verify` in the YAML files and should be confirmed by the project maintainers.
 
 ## Resources
 
