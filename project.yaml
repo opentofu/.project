@@ -20,7 +20,7 @@ repositories:
 
 website: "https://opentofu.org/"
 
-artwork: "https://landscape.cncf.io/logos/opentofu.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/opentofu"
 
 # adopters:
 #   path: "https://github.com/opentofu/opentofu/blob/main/ADOPTERS.md"
